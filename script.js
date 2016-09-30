@@ -1,1 +1,1 @@
-addMessage(u0wijwFIPI)
+addMessage()
